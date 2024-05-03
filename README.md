@@ -4,8 +4,8 @@
 3. Файлы с данными для работы с кодом
 
 Размер матрицы и время работы:
-Matrix size: 10
-Lead time: 7e-06 s
+1. Matrix size: 10
+2. Lead time: 7e-06 s
 
 Таблица значений:
 ![image](https://github.com/Chuck-man/Parprog_lab1/assets/114077189/58ccc2cc-ff9e-4413-8e98-daec0ac74a01)
